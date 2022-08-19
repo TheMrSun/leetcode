@@ -1,4 +1,4 @@
-package isUniqueLCCI;
+package isUnique;
 //实现一个算法，确定一个字符串 s 的所有字符是否全都不同。
 //
 // 示例 1：

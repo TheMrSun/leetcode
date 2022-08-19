@@ -1,4 +1,4 @@
-package isUniqueLCCI;
+package isUnique;
 //实现一个算法，确定一个字符串 s 的所有字符是否全都不同。
 //
 // 示例 1：
@@ -35,7 +35,6 @@ package isUniqueLCCI;
  */
 import org.junit.Test;
 
-import java.util.HashSet;
 /**
  * @author Slience
  * @version 1.0
